@@ -2,7 +2,8 @@ import { useState, useEffect } from "react";
 
 function App() {
   const [datasets, setDatasets] = useState([]);
-  const [search, setSearch] = useState("");
+  const [searchText, setSearchText] = useState(""); // For subject/dataset/description
+  const [variableText, setVariableText] = useState(""); // For variable search
   const [loading, setLoading] = useState(true);
 
   // Fetch datasets.json from public folder
@@ -19,11 +20,22 @@ function App() {
       });
   }, []);
 
-  // Filter datasets by subject_area OR dataset name
-  const filteredDatasets = datasets.filter((d) =>
-    d.subject_area.toLowerCase().includes(search.toLowerCase()) ||
-    d.dataset.toLowerCase().includes(search.toLowerCase())
-  );
+  // Filter datasets
+  const filteredDatasets = datasets.filter((d) => {
+    const searchLower = searchText.toLowerCase();
+    const variableLower = variableText.toLowerCase();
+    const variables = Array.isArray(d.variable_names) ? d.variable_names.join(" ") : "";
+
+    const matchesSearch =
+      d.subject_area.toLowerCase().includes(searchLower) ||
+      d.dataset.toLowerCase().includes(searchLower) ||
+      d.description.toLowerCase().includes(searchLower);
+
+    const matchesVariable =
+      variableLower === "" || variables.toLowerCase().includes(variableLower);
+
+    return matchesSearch && matchesVariable;
+  });
 
   return (
     <div style={{ padding: "2rem", fontFamily: "sans-serif" }}>
@@ -31,14 +43,28 @@ function App() {
 
       <input
         type="text"
-        placeholder="Search by subject area or dataset name..."
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
+        placeholder="Search by subject, dataset, or description..."
+        value={searchText}
+        onChange={(e) => setSearchText(e.target.value)}
         style={{
           padding: "0.5rem",
           fontSize: "1rem",
           width: "100%",
-          maxWidth: "400px",
+          maxWidth: "500px",
+          marginBottom: "0.5rem",
+        }}
+      />
+
+      <input
+        type="text"
+        placeholder="Optional: Search by variable..."
+        value={variableText}
+        onChange={(e) => setVariableText(e.target.value)}
+        style={{
+          padding: "0.5rem",
+          fontSize: "1rem",
+          width: "100%",
+          maxWidth: "500px",
           marginBottom: "1rem",
         }}
       />
@@ -71,6 +97,22 @@ function App() {
                 <em>{d.subject_area}</em>
               </p>
               <p style={{ margin: "0.25rem 0" }}>{d.description}</p>
+
+              {/* Display variable names if available */}
+              {d.variable_names && d.variable_names.length > 0 && (
+                <p style={{ margin: "0.25rem 0" }}>
+                  <strong>Variables:</strong> {d.variable_names.join(", ")}
+                </p>
+              )}
+
+              {/* Display API documentation link if available */}
+              {d.api_docs && (
+                <p style={{ margin: "0.25rem 0" }}>
+                  <a href={d.api_docs} target="_blank" rel="noopener noreferrer">
+                    API Documentation
+                  </a>
+                </p>
+              )}
             </li>
           ))}
         </ul>
