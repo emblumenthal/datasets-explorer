@@ -2,8 +2,8 @@ import { useState, useEffect } from "react";
 
 function App() {
   const [datasets, setDatasets] = useState([]);
-  const [searchText, setSearchText] = useState(""); // For subject/dataset/description
-  const [variableText, setVariableText] = useState(""); // For variable search
+  const [searchText, setSearchText] = useState(""); // Search by subject/dataset/description
+  const [variableText, setVariableText] = useState(""); // Optional search by variable
   const [loading, setLoading] = useState(true);
 
   // Fetch datasets.json from public folder
@@ -41,6 +41,7 @@ function App() {
     <div style={{ padding: "2rem", fontFamily: "sans-serif" }}>
       <h1>Dataset Finder</h1>
 
+      {/* Search boxes */}
       <input
         type="text"
         placeholder="Search by subject, dataset, or description..."
@@ -69,6 +70,7 @@ function App() {
         }}
       />
 
+      {/* Dataset list */}
       {loading ? (
         <p>Loading datasets...</p>
       ) : filteredDatasets.length === 0 ? (
@@ -86,33 +88,36 @@ function App() {
               }}
             >
               <a
-                href={d.dataset_link}
+                href={d.dataset_url}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ fontWeight: "bold", textDecoration: "none" }}
               >
                 {d.dataset}
               </a>
+
               <p style={{ margin: "0.25rem 0" }}>
                 <em>{d.subject_area}</em>
               </p>
+
               <p style={{ margin: "0.25rem 0" }}>{d.description}</p>
 
-              {/* Display variable names if available */}
-              {d.variable_names && d.variable_names.length > 0 && (
+              {/* Variables */}
+              {(d.variable_names?.length ?? 0) > 0 && (
                 <p style={{ margin: "0.25rem 0" }}>
                   <strong>Variables:</strong> {d.variable_names.join(", ")}
                 </p>
               )}
 
-              {/* Display API documentation link if available */}
-              {d.api_docs && (
+              {/* API Documentation */}
+              {d.api_docs ? (
                 <p style={{ margin: "0.25rem 0" }}>
+                  <strong>API Documentation:</strong>{" "}
                   <a href={d.api_docs} target="_blank" rel="noopener noreferrer">
-                    API Documentation
+                    {d.api_docs}
                   </a>
                 </p>
-              )}
+              ) : null}
             </li>
           ))}
         </ul>
