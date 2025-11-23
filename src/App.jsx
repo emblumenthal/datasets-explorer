@@ -1,90 +1,80 @@
-import { useEffect, useState } from "react";
-import "./App.css";
+import { useState, useEffect } from "react";
 
 function App() {
   const [datasets, setDatasets] = useState([]);
-  const [subjects, setSubjects] = useState([]);
-  const [selected, setSelected] = useState("");
   const [search, setSearch] = useState("");
+  const [loading, setLoading] = useState(true);
 
+  // Fetch datasets.json from public folder
   useEffect(() => {
-    fetch("/datasets.json")
+    fetch(import.meta.env.BASE_URL + "datasets.json")
       .then((res) => res.json())
       .then((data) => {
         setDatasets(data);
-        setSubjects([...new Set(data.map((d) => d.subject_area))]);
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error("Failed to load datasets:", err);
+        setLoading(false);
       });
   }, []);
 
-  const highlightText = (text, term) => {
-    if (!term) return text;
-    const regex = new RegExp(`(${term})`, "gi");
-    const parts = text.split(regex);
-    return parts.map((part, i) =>
-      regex.test(part) ? <mark key={i}>{part}</mark> : part
-    );
-  };
-
-  const filtered = datasets.filter((d) => {
-    const matchesSubject = selected ? d.subject_area === selected : true;
-    const matchesSearch = search
-      ? d.dataset.toLowerCase().includes(search.toLowerCase()) ||
-        d.description.toLowerCase().includes(search.toLowerCase())
-      : true;
-    return matchesSubject && matchesSearch;
-  });
-
-  // Dynamically update subjects based on current search
-  const filteredSubjects = [
-    ...new Set(
-      datasets
-        .filter((d) =>
-          search
-            ? d.dataset.toLowerCase().includes(search.toLowerCase()) ||
-              d.description.toLowerCase().includes(search.toLowerCase())
-            : true
-        )
-        .map((d) => d.subject_area)
-    ),
-  ];
+  // Filter datasets by subject_area OR dataset name
+  const filteredDatasets = datasets.filter((d) =>
+    d.subject_area.toLowerCase().includes(search.toLowerCase()) ||
+    d.dataset.toLowerCase().includes(search.toLowerCase())
+  );
 
   return (
-    <div className="container">
-      <h1>Dataset Explorer</h1>
+    <div style={{ padding: "2rem", fontFamily: "sans-serif" }}>
+      <h1>Dataset Finder</h1>
 
-      <div className="controls">
-        <select
-          value={selected}
-          onChange={(e) => setSelected(e.target.value)}
-        >
-          <option value="">All Subjects</option>
-          {filteredSubjects.map((sub) => (
-            <option key={sub} value={sub}>
-              {sub}
-            </option>
+      <input
+        type="text"
+        placeholder="Search by subject area or dataset name..."
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        style={{
+          padding: "0.5rem",
+          fontSize: "1rem",
+          width: "100%",
+          maxWidth: "400px",
+          marginBottom: "1rem",
+        }}
+      />
+
+      {loading ? (
+        <p>Loading datasets...</p>
+      ) : filteredDatasets.length === 0 ? (
+        <p>No datasets found.</p>
+      ) : (
+        <ul style={{ listStyle: "none", padding: 0 }}>
+          {filteredDatasets.map((d, i) => (
+            <li
+              key={i}
+              style={{
+                border: "1px solid #ccc",
+                borderRadius: "6px",
+                padding: "1rem",
+                marginBottom: "0.5rem",
+              }}
+            >
+              <a
+                href={d.dataset_link}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ fontWeight: "bold", textDecoration: "none" }}
+              >
+                {d.dataset}
+              </a>
+              <p style={{ margin: "0.25rem 0" }}>
+                <em>{d.subject_area}</em>
+              </p>
+              <p style={{ margin: "0.25rem 0" }}>{d.description}</p>
+            </li>
           ))}
-        </select>
-
-        <input
-          type="text"
-          placeholder="Search datasets or descriptions…"
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-        />
-      </div>
-
-      <div className="cards">
-        {filtered.map((d, i) => (
-          <div className="card" key={i}>
-            <h3>{highlightText(d.dataset, search)}</h3>
-            <p className="subject">{d.subject_area}</p>
-            <p className="description">{highlightText(d.description, search)}</p>
-            <a href={d.dataset_url} target="_blank" rel="noopener noreferrer">
-              Visit Dataset →
-            </a>
-          </div>
-        ))}
-      </div>
+        </ul>
+      )}
     </div>
   );
 }
