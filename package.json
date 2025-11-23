@@ -6,12 +6,10 @@
   "homepage": "https://emblumenthal.github.io/datasets-explorer/",
   "scripts": {
     "dev": "vite",
-    "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/emblumenthal/datasets-explorer.git"
   },
   "dependencies": {
     "react": "^19.2.0",
