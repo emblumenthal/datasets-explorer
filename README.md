@@ -1,6 +1,8 @@
 # Datasets Explorer
 
-A simple React + Vite app to **search and explore research datasets by subject area and dataset name**.
+<<<<<<< HEAD
+A simple React + Vite app to **search and explore datasets by subject area and dataset name**.
+>>>>>>> 9e8bfa2 (update readme)
 The app dynamically loads a JSON database of datasets and allows filtering by typing in the search box. Each dataset includes:
 
 * `subject_area` – the field or category of the dataset
