@@ -1,0 +1,2778 @@
+[
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "American Mathematical Society Online Journals",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.ams.org%2Fjournals%2F",
+    "description": "Full-text access to American Mathematical Society journals.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Astrophysics Data System (ADS)",
+    "dataset_url": "http://adswww.harvard.edu/",
+    "description": "The SAO/NASA Astrophysics Data System (ADS) is a digital library portal for researchers in astronomy and physics, operated by the Smithsonian Astrophysical Observatory under a NASA grant. It maintains bibliographic databases with more than 10.3 million records.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "CERN Open Data Portal",
+    "dataset_url": "https://opendata.cern.ch/",
+    "description": "More than five petabytes of open data from particle physics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "ChemSynthesis",
+    "dataset_url": "https://www.chemsynthesis.com/",
+    "description": "Freely accessible database of chemicals with synthesis references and physical properties such as melting point, boiling point, and density. Contains more than 40,000 compounds and over 45,000 synthesis references.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Civil Engineering Database",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fcedb.asce.org",
+    "description": "Indexes ASCE publications including books, conference proceedings, and journals. Includes links to full text for subscribed ASCE journals.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "DANS Life Sciences Data",
+    "dataset_url": "https://lifesciences.datastations.nl/",
+    "description": "Thousands of datasets within the fields of life sciences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "DANS Physical and Technical Sciences Data",
+    "dataset_url": "https://phys-techsciences.datastations.nl/",
+    "description": "Thousands of datasets within the fields of physical and technical sciences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "data.nasa.gov",
+    "dataset_url": "https://data.nasa.gov/",
+    "description": "NASA clearinghouse site for open data provided to the public.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "DOE Data Explorer",
+    "dataset_url": "http://www.osti.gov/dataexplorer/",
+    "description": "Discover data and non-text information from the U.S. Department of Energy.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Energy Information Administration",
+    "dataset_url": "http://www.eia.gov/",
+    "description": "U.S. government reports and data on energy usage, forecasts, sources, and more.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Engineering Village",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fwww.engineeringvillage.com%2Fsearch%2Fquick.url",
+    "description": "Database platform linking to materials in physics, engineering, and related fields. Provides access to Compendex, GEOBASE, and Knovel.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Gridded Population of the World (GPW)",
+    "dataset_url": "https://sedac.ciesin.columbia.edu/data/collection/gpw-v4",
+    "description": "Models the distribution of human population on a continuous surface (GPWv4).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "IEEE/IEE Electronic Library",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.ieee.org%2Fieeexplore%2F",
+    "description": "Access to technical literature in electrical engineering, computer science, and electronics, including IEEE and IEE journals, conference proceedings, and IEEE Standards.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "INSPIRE",
+    "dataset_url": "https://inspirehep.net/?ln=en",
+    "description": "High Energy Physics information system including journal articles, preprints, technical reports, and conference papers. Run by CERN, DESY, Fermilab, and SLAC.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Knovel Civil Engineering & Construction Materials Library",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fapp.knovel.com%2Fweb%2Fbrowse-a-subject-area.v%2Fcatid%3A220%2Fcat_slug%3Acivil-engineering-construction-materials%2Ffilter_by%3Amy-subscription%3Fname%3DCivil%2520Engineering%2520%2526%2520Construction%2520Materials",
+    "description": "Reference material on civil engineering and construction materials.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "MathSciNet",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.ams.org%2Fmathscinet",
+    "description": "Indexes research literature on theoretical and applied mathematics (online equivalent of Mathematical Reviews).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "OSTI.GOV",
+    "dataset_url": "https://www.osti.gov/",
+    "description": "Connection to science, technology, and engineering research information from the U.S. Department of Energy.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "Science.gov",
+    "dataset_url": "http://www.science.gov",
+    "description": "Searches over 60 databases and 2200 selected websites from 15 federal agencies, offering 200 million pages of U.S. government science information.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "SciFinder Scholar",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.aladin.wrlc.org%2Faladin%2Fhelp%2Fdesc%2FSCIFINDER9.html",
+    "description": "Access to Chemical Abstracts, Registry File, Medline, CASREACT, CHEMCATS, and CHEMLIST for chemical literature, compound information, reactions, sources, and regulatory info.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "TRID",
+    "dataset_url": "https://trid.trb.org/",
+    "description": "Integrated database combining TRB’s TRIS and OECD’s ITRD databases, with access to 1.4 million records of transportation research worldwide.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Applied & Physical Sciences",
+    "dataset": "ZINC",
+    "dataset_url": "https://zinc.docking.org/",
+    "description": "Free database of commercially available compounds for virtual screening. Contains over 230 million purchasable compounds in ready-to-dock 3D formats and over 750 million purchasable compounds for analog search.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "American Song (North America)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.alexanderstreet.com%2Famso",
+    "description": "Database of 50,000 songs across American musical genres including country, folk, bluegrass, blues, gospel, and more, with streaming access.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "ARTstor",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Flibrary.artstor.org",
+    "description": "Searchable database of more than 750,000 images across times, cultures, and disciplines, with tools for teaching and research.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "AskART",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.askart.com%2FAskART%2Findex.aspx",
+    "description": "Biographical and professional data on over 120,000 American artists; includes images, biographies, and limited auction records for valuation and provenance.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Contemporary World Music",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.alexanderstreet.com%2Fwomu",
+    "description": "Search and browse over 50,000 tracks across global genres with liner notes and metadata.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Federal Communications Commission Reports & Research",
+    "dataset_url": "https://www.fcc.gov/reports-research",
+    "description": "Access to designated FCC records for industry professionals, attorneys, researchers, and consumers.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Filmakers Library Online",
+    "dataset_url": "https://video.alexanderstreet.com/channel/filmakers-library-online",
+    "description": "Award-winning documentaries across race and gender studies, human rights, globalization, criminal justice, environment, bioethics, health, political science, psychology, arts, literature, and more.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Institute for Public Relations Research Library",
+    "dataset_url": "https://instituteforpr.org/research-library/",
+    "description": "Database of public relations research segmented by topic area and IPR centers of excellence.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Media History Digital Library",
+    "dataset_url": "https://mediahistoryproject.org/",
+    "description": "Digitized collections of classic media periodicals in the public domain for full public access.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Million Song Dataset",
+    "dataset_url": "http://millionsongdataset.com/pages/getting-dataset/",
+    "description": "Collection of audio features and metadata for a million contemporary popular music tracks.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Moving Image Archive",
+    "dataset_url": "https://archive.org/details/movies",
+    "description": "Digital movies from classic films to news broadcasts, cartoons, and concerts; many available for free download.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Oxford Music Online",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.oxfordmusiconline.com%2F",
+    "description": "Includes The Oxford Dictionary of Music, Grove Music Online, and The Oxford Companion to Music.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Prelinger Film Archive",
+    "dataset_url": "https://archive.org/details/prelinger",
+    "description": "Collection of films on U.S. cultural history, American landscape, everyday life, and social history.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "Smithsonian Global Sound",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.alexanderstreet.com%2Fglmu",
+    "description": "Virtual encyclopedia of world musical and aural traditions, with over 35,000 tracks and archival collections.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Arts & Humanities",
+    "dataset": "TROLLing",
+    "dataset_url": "https://dataverse.no/dataverse/trolling",
+    "description": "Open access archive of linguistic data and statistical code with searchable metadata.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "ABI/Inform Complete Plus",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.proquest.com%2Fadvanced%2Fadvanced%3Faccountid%3D11243%26selectids%3D10000008%2C1006323%2C1006324%2C1006102%2C1006985",
+    "description": "Covers global business conditions, trends, management techniques, corporate strategies, and industry topics with articles from magazines, trade publications, and scholarly journals.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Accounting & Tax Database",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.proquest.com%2Faccounting%2Fadvanced%3Fip%3Faccountid%3D11243",
+    "description": "Articles from nearly 300 accounting and tax publications, official releases from AICPA and FASB, and selected tax-related information.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Accounting, Tax and Banking Collection",
+    "dataset_url": "https://search.proquest.com/accountingtaxbanking/advanced/fromDatabasesLayer?accountid=11243",
+    "description": "Collection for research on accounting, tax, banking, and financial issues, combining Accounting & Tax Database and Banking Information Database.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Africa Development Indicators",
+    "dataset_url": "https://databank.worldbank.org/source/africa-development-indicators",
+    "description": "Compilation of over 1,400 development indicators for Sub-Saharan Africa, sourced primarily from the World Bank, covering national accounts, trade, demography, health, education, transport, and environment.",
+    "variable_names": ["IC_FRM_FINA_ZS", "AG_LND_IRIG_HA_AG", "SH_HIV_DTS_NUM", "IT_NET_BBND_P3", "FR_INR_CBIR"],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "ALFRED: Archival Federal Reserve Economic Data",
+    "dataset_url": "http://research.stlouisfed.org/tips/alfred",
+    "description": "Older vintages for select time series in FRED including CPI, PPI, and employment.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Annual Survey of Manufactures",
+    "dataset_url": "http://www.census.gov/manufacturing/asm/index.html",
+    "description": "Historical and current data on the manufacturing sector; print series available for 1949–1996.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Bank Data & Statistics",
+    "dataset_url": "https://www.fdic.gov/bank/statistical/",
+    "description": "FDIC databases providing information on specific banks, branches, and the banking industry.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "BankFind Suite: Find Annual Historical Bank Data",
+    "dataset_url": "https://banks.data.fdic.gov/bankfind-suite/historical",
+    "description": "Annual summary of financial and structural data for FDIC-insured institutions (1934–2019) to analyze long-term trends and benchmarks.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Banking and Monetary Statistics, 1914–1941",
+    "dataset_url": "http://fraser.stlouisfed.org/publications/bms/",
+    "description": "Historical banking and monetary statistics for 1914–1941; also available in print.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Banking and Monetary Statistics, 1941–1970",
+    "dataset_url": "http://fraser.stlouisfed.org/publications/bms2/",
+    "description": "Historical banking and monetary statistics for 1941–1970; also available in print.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Bureau of Economic Analysis",
+    "dataset_url": "https://www.bea.gov/",
+    "description": "Accurate and objective data about the U.S. economy including GDP, state/local numbers, foreign trade and investment, and industry data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Bureau of Labor Statistics",
+    "dataset_url": "http://www.bls.gov/",
+    "description": "U.S. Department of Labor statistics on wages, employment, and unemployment.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Business and Financial Converters and Calculators",
+    "dataset_url": "http://www.csgnetwork.com/financialconverters.html",
+    "description": "Online calculators and converters for business and financial computations.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Capital IQ Credit Ratings",
+    "dataset_url": "https://wrds-www.wharton.upenn.edu/login/",
+    "description": "Credit ratings across corporations, financial institutions, insurance companies, and government entities via WRDS. Accounts required for access.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "CEIC Global Database (with China and Brazil premium data)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Finsights.ceicdata.com%2F",
+    "description": "Over 2.5 million time series covering global economies with detailed macroeconomic and industrial sector data; registration may be required.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Census Bureau APIs",
+    "dataset_url": "https://www.census.gov/data/developers/updates/new-data-sets.html",
+    "description": "APIs to access U.S. Census Bureau data for demographics and economics.",
+    "variable_names": [],
+    "api_docs": "https://www.census.gov/data/developers/updates/new-data-sets.html"
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Economic Commission for Europe",
+    "dataset_url": "https://w3.unece.org/PXWeb/en",
+    "description": "Statistical data on UNECE member countries across various topics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Factiva",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fglobal.factiva.com%2Fen%2Fsess%2Flogin.asp",
+    "description": "Global news and business, financial, and company information from thousands of publications; limited simultaneous users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "FDIC Statistics on Banking",
+    "dataset_url": "http://www2.fdic.gov/SDI/SOB/",
+    "description": "Quarterly publication with aggregate financial and structural data for FDIC-insured institutions; historical print/microfiche also available.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Federal Reserve Economic Data (FRED)",
+    "dataset_url": "https://fred.stlouisfed.org/",
+    "description": "Database of economic data time series. Maintained by the Federal Reserve Bank of St. Louis.",
+    "variable_names": [],
+    "api_docs": "https://fred.stlouisfed.org/docs/api/fred/"
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Harvard Dataverse",
+    "dataset_url": "https://dataverse.harvard.edu/",
+    "description": "Free data repository open to all researchers for sharing, archiving, citing, accessing, and exploring research data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "ICPSR: Inter-university Consortium for Political and Social Research",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.icpsr.umich.edu%2Ficpsrweb%2FICPSR%2F",
+    "description": "Publicly and restricted-access datasets on public policy and social science research; user accounts required.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "IMF Data Portal",
+    "dataset_url": "https://www.imf.org/en/Data",
+    "description": "Access to IMF periodicals, books, working papers, datasets, and statistical tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Industry Data Navigator",
+    "dataset_url": "https://www.industrydatanavigator.org/",
+    "description": "Platform for accessible, actionable economic data for researchers, policymakers, and investors.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Mergent Market Atlas",
+    "dataset_url": "https://marketatlasoa.mergent.com/login?entity=https://idp.gwu.edu/entity",
+    "description": "Public company financials, ratios, segments, sustainability, officers, directors, and additional industry and country risk reports.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "National Bureau of Economic Research",
+    "dataset_url": "http://www.nber.org/",
+    "description": "Research organization promoting understanding of the economy; working papers and datasets available.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "OECD Publications",
+    "dataset_url": "https://www.oecd.org/en/publications.html",
+    "description": "Access to books, journals, and statistical databases on member countries’ economics, politics, and international affairs.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "SAGE Research Methods Datasets",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fmethods.sagepub.com%2Fdatasets",
+    "description": "Teaching datasets supporting quantitative and qualitative methods, with narratives and instructions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Statista",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fwww.statista.com%2F",
+    "description": "Statistics and studies aggregated from international sources, with multiple visualization formats.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Statistics for Specific Industries",
+    "dataset_url": "http://www.sba.gov/content/statistics-specific-industries",
+    "description": "Links to U.S. government data across agriculture, banking, energy, environment, health and safety, housing, and transportation.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Wharton Research Data Services (WRDS)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fwrds-web.wharton.upenn.edu%2Fwrds%2F",
+    "description": "Includes Compustat and many other financial and economic datasets; accounts required.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Business & Economics",
+    "dataset": "Zip Code Business Patterns",
+    "dataset_url": "https://www.census.gov/data/developers/data-sets/cbp-nonemp-zbp/zbp-api.html",
+    "description": "Annual statistics for businesses with paid employees at the ZIP Code level; includes establishments, employment, payroll, and size classes.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "Africa Development Indicators",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fdatabank.worldbank.org%2Fddp%2Fhome.do%3FStep%3D12%26id%3D4%26CNO%3D1147",
+    "description": "Detailed collection of data on Africa (over 1,600 indicators) covering 53 countries from 1961 to 2008 across social, economic, financial, and environmental topics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "data.census.gov",
+    "dataset_url": "https://data.census.gov/",
+    "description": "Access to Decennial Census, Economic Census, and American Community Survey data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "General Social Survey",
+    "dataset_url": "http://www3.norc.org/GSS+Website/",
+    "description": "U.S. survey since 1972 with demographic, behavioral, and attitudinal questions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "IPUMS",
+    "dataset_url": "https://www.ipums.org/",
+    "description": "Demographic data resources including USA (from 1850), International (from 1960), CPS, NHIS, ATUS-X, NHGIS, and NAPP; accounts required.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "OECD Publications",
+    "dataset_url": "https://www.oecd.org/en/publications.html",
+    "description": "Access to OECD books, journals, and statistical databases; includes data from IEA and others.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "Social Explorer",
+    "dataset_url": "https://www.socialexplorer.com/pub/home/home.aspx",
+    "description": "U.S. historical census data (1790–present) and ACS data with interactive maps and reporting tools; limited concurrent users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "Statistical Abstracts of the United States",
+    "dataset_url": "https://www.census.gov/library/publications/time-series/statistical_abstracts.html",
+    "description": "Authoritative summary of statistics on the social, political, and economic organization of the United States (published 1878–2012).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "Statistical Abstracts of the United States (ProQuest)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.proquest.com%2Fstatistical%3Flandingpage%3Dstatab",
+    "description": "Authoritative summary of U.S. statistics. For editions before 2013, see the Census Bureau version.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "US Census Data Search",
+    "dataset_url": "https://data.census.gov/cedsci/",
+    "description": "Leading source of quality data about the U.S. people and economy.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Census & Demographics",
+    "dataset": "World Development Indicators",
+    "dataset_url": "http://data.worldbank.org/data-catalog/world-development-indicators",
+    "description": "Current data of global, regional, and country-specific indicators such as income, education, social development, and labor.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "dataset_url": "https://catalog.caida.org/search?query=types=dataset%20links=tag:caida",
+    "description": "Archive of data for scientific analysis of internet and network functions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "Digital Attack Map",
+    "dataset_url": "https://www.digitalattackmap.com/about/",
+    "description": "Live data visualization of global DDoS attacks, with historical trends.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "IEEE DataPort IoT Datasets",
+    "dataset_url": "https://ieee-dataport.org/topic-tags/iot",
+    "description": "Internet of Things datasets available via IEEE DataPort.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "Kaggle",
+    "dataset_url": "https://www.kaggle.com/datasets?tags=12107-Computer+Science",
+    "description": "Platform for data science competitions and collaborative learning; hosts datasets and code.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "KONECT Project",
+    "dataset_url": "http://konect.cc/",
+    "description": "Network science project collecting and analyzing network datasets; provides toolbox and extraction libraries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "Net Data Directory",
+    "dataset_url": "http://netdatadirectory.org/",
+    "description": "Resource collecting and sharing data sources about the internet; produced by Berkman Klein Center.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "SNAP: Stanford Large Network Dataset Collection",
+    "dataset_url": "https://snap.stanford.edu/data/",
+    "description": "Collection of large network datasets including social, citation, web graphs, communities, and reviews.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Cybersecurity & Information Technology",
+    "dataset": "UC Irvine Machine Learning Repository",
+    "dataset_url": "https://archive.ics.uci.edu/",
+    "description": "Collection of databases and data generators used for empirical analysis of machine learning algorithms.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Data from the District of Columbia Government",
+    "dataset_url": "https://opendata.dc.gov/",
+    "description": "Access to ~500 datasets from multiple DC agencies in various formats including live feeds.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "District of Columbia - Metropolitan Police Department Data & Statistics",
+    "dataset_url": "http://mpdc.dc.gov/page/statistics-and-data",
+    "description": "Reports, statistics, and data on crime rates, traffic fatalities, and year-to-date comparisons.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "District of Columbia Open Data",
+    "dataset_url": "http://opendata.dc.gov/",
+    "description": "Ensures DC's data is open, discoverable, and usable to the public; multiple download formats.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "District of Columbia OSSE Data",
+    "dataset_url": "https://osse.dc.gov/page/data-and-reports-0",
+    "description": "DC Office of the State Superintendent of Education datasets including enrollment, attendance, and report cards.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Maryland Data Sources",
+    "dataset_url": "https://www.countyhealthrankings.org/health-data/methodology-and-sources/beyond-the-county-health-snapshots/maryland-state-resources",
+    "description": "Local Maryland datasets focused on public health and education.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Maryland Judiciary Data Dashboard",
+    "dataset_url": "https://datadashboard.mdcourts.gov/",
+    "description": "Interactive compilation of Maryland courts’ caseload and performance metrics (incoming/outgoing cases, clearance rates, case processing).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Maryland Open Data",
+    "dataset_url": "https://opendata.maryland.gov/",
+    "description": "Open data portal for Maryland across agriculture, education, transportation, health, and public safety.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Maryland State Data & Analysis Center",
+    "dataset_url": "https://planning.maryland.gov/msdc/Pages/default.aspx",
+    "description": "Official partner with U.S. Census Bureau; analysis and projections for population, housing, employment, labor force, and income.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Maryland State Department Common Core Standards",
+    "dataset_url": "http://mdk12.org/instruction/commoncore/index.html",
+    "description": "Information on Maryland’s College and Career-Ready Standards incorporating Common Core.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Open Baltimore",
+    "dataset_url": "https://data.baltimorecity.gov/",
+    "description": "Public access to Baltimore city data for transparency and problem-solving.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "U.S. Department of Labor - District of Columbia - Bureau of Labor Statistics",
+    "dataset_url": "http://www.bls.gov/eag/eag.dc.htm",
+    "description": "Quick glance at the economy in the District of Columbia.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Department of Education Data (VDOE)",
+    "dataset_url": "https://www.doe.virginia.gov/data-policy-funding/data-reports",
+    "description": "Data on enrollment, demographics, student achievement, finances, and safety; school/district/state report cards.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Department of Environmental Quality (DEQ)",
+    "dataset_url": "https://geohub-vadeq.hub.arcgis.com/pages/open-data-portal",
+    "description": "Central location to access DEQ data with previews and supplemental fact sheets.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Gas and Oil Data Information System",
+    "dataset_url": "https://www.energy.virginia.gov/dgoinquiry/frmmain.aspx",
+    "description": "Databases including monthly gas/oil production, permit issuance, driller reports; exportable to PDF and Excel.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Open Data Portal",
+    "dataset_url": "https://data.virginia.gov/",
+    "description": "Open data across agriculture, education, transportation, health, and public safety for Virginia.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Roads (VDOT)",
+    "dataset_url": "https://www.virginiaroads.org/",
+    "description": "VDOT’s open data portal demonstrating management of the state’s transportation infrastructure.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Virginia Traffic Crash Facts",
+    "dataset_url": "https://www.dmv.virginia.gov/safety/crash-data/traffic-crash-facts",
+    "description": "Comprehensive statistical overview of traffic crashes occurring in Virginia.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "DC-Maryland-Virginia",
+    "dataset": "Washington DC Boundary",
+    "dataset_url": "https://catalog.data.gov/dataset/washington-dc-boundary",
+    "description": "Polygon dataset representing the District of Columbia boundary.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Child & Family Data Archive",
+    "dataset_url": "https://www.childandfamilydataarchive.org/cfda/pages/cfda/index.html",
+    "description": "Hosts datasets about young children, their families and communities, and the programs that serve them.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Child Care and Early Education Research Connections",
+    "dataset_url": "https://researchconnections.org/research-library",
+    "description": "Online research library supporting CCDF leaders and early education policymakers.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Common Data Set Initiative",
+    "dataset_url": "http://www.commondataset.org/",
+    "description": "Collaborative effort among higher education data providers and publishers to improve quality and accuracy for student transition information.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "ED Data Express",
+    "dataset_url": "https://eddataexpress.ed.gov/",
+    "description": "U.S. Department of Education data about elementary and secondary schools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Education Trends In Perspective",
+    "dataset_url": "https://uis.unesco.org/?ID=6192_201&ID2=DO_TOPIC",
+    "description": "UNESCO data and tables analyzing trends in middle-income countries (1995–2003), with comparisons to OECD countries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "IES: Institute of Education Sciences",
+    "dataset_url": "http://ies.ed.gov/",
+    "description": "Statistics, research, and evaluation arm of the U.S. Department of Education.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Integrated Postsecondary Education Data System (IPEDS)",
+    "dataset_url": "http://nces.ed.gov/ipeds/",
+    "description": "Data and statistics related to postsecondary education; downloadable data and tables.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "National Center for Educational Statistics",
+    "dataset_url": "http://nces.ed.gov/",
+    "description": "Publications and datasets covering surveys and broad perspectives on education statistics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Teaching With Data",
+    "dataset_url": "https://www.icpsr.umich.edu/web/pages/instructors/index.html",
+    "description": "Educational materials to improve quantitative literacy skills in social science courses.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Education",
+    "dataset": "Virginia Department of Education",
+    "dataset_url": "http://www.doe.virginia.gov/",
+    "description": "VDOE site with statistics and reports, school report cards, and links to school division websites.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "BCO-DMO",
+    "dataset_url": "https://www.bco-dmo.org/search/dataset",
+    "description": "Biological and Chemical Oceanography Data Management Office datasets from NSF-funded investigators.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Climate & Weather: NOAA National Centers for Environmental Information",
+    "dataset_url": "http://www.ngdc.noaa.gov/",
+    "description": "NOAA’s NCEI provides access to climate, coastal, oceanographic, and geophysical data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Climate Data Guide",
+    "dataset_url": "https://climatedataguide.ucar.edu/",
+    "description": "NCAR resource for climate data guidance.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "EPA Environmental Dataset Gateway",
+    "dataset_url": "https://edg.epa.gov/metadata/catalog/main/home.page",
+    "description": "Gateway to discover, view, and access EPA datasets and geospatial tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "HERO: Health & Environmental Research Online",
+    "dataset_url": "http://cfpub.epa.gov/ncea/hero/",
+    "description": "Key studies used by EPA to develop environmental risk assessments; browse bibliographic references by topic or assessment.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Incorporated Research Institutions for Seismology (IRIS)",
+    "dataset_url": "https://ds.iris.edu/data/access/",
+    "description": "Seismographic data exploring Earth’s interior via a university research consortium.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Long Term Ecological Research Network (LTER)",
+    "dataset_url": "http://www.lternet.edu/",
+    "description": "NSF network conducting research on long-term ecological issues across broad geographic scales.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "NOAA National Climatic Data Center",
+    "dataset_url": "http://www.ncdc.noaa.gov/customer-support/archiving-your-data-ncdc",
+    "description": "Access to surface, satellite, model, radar, balloon, marine/ocean, paleoclimate, and severe weather data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "NOAA National Geophysical Data Center",
+    "dataset_url": "http://www.ngdc.noaa.gov/",
+    "description": "Bathymetry & global relief, Earth observations, geomagnetic data, marine geology/geophysics, natural hazards, and space weather.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "NOAA National Geophysical Data Center (Climate Data Online)",
+    "dataset_url": "http://www.ngdc.noaa.gov/",
+    "description": "Climate Data Online provides free access to NCDC's archive of global historical weather and climate data and station history.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "NOAA National Oceanographic Data Center",
+    "dataset_url": "http://www.nodc.noaa.gov/",
+    "description": "Oceanographic data including temperature, currents, salinity, pH, oxygen, and sea level.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "NOAA National Weather Service Forecast Office Baltimore/Washington",
+    "dataset_url": "http://www.nws.noaa.gov/climate/xmacis.php?wfo=lwx",
+    "description": "Current and predicted weather, historical data, and regional climate resources for Baltimore/Washington.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "ProQuest Earth, Atmospheric & Aquatic Science Database",
+    "dataset_url": "https://search.proquest.com/eaasdb/advanced?accountid=11243",
+    "description": "Full-text titles across earth, atmospheric, and aquatic sciences including journals, reports, and government publications.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Sloan Digital Sky Survey I & II",
+    "dataset_url": "http://www.sdss.org/",
+    "description": "Deep, multi-color images covering more than a quarter of the sky and 3D maps of over 930,000 galaxies and 120,000 quasars (Data Release 7).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "Sloan Digital Sky Survey III",
+    "dataset_url": "http://www.sdss3.org/index.php",
+    "description": "Data Releases 8–10 for SDSS-III.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "IUCN Red List of Threatened Species",
+    "dataset_url": "http://www.iucnredlist.org/",
+    "description": "Global evaluations of conservation status with taxonomic and distribution information for plants and animals.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "US Geological Survey",
+    "dataset_url": "http://www.usgs.gov/",
+    "description": "Maps, images, and publications; tools to create maps and access datasets.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "USDA Life Cycle Assessment Data",
+    "dataset_url": "http://www.lcacommons.gov/",
+    "description": "Datasets and toolkits for assessing environmental impacts via life cycle assessment.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Environmental Studies",
+    "dataset": "USDA Natural Resources Conservation Service",
+    "dataset_url": "http://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/",
+    "description": "Links to data, reports, and technical tools for natural resources conservation.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Adult LGBT Population in the United States",
+    "dataset_url": "https://williamsinstitute.law.ucla.edu/publications/adult-lgbt-pop-us/",
+    "description": "Estimates of LGBT adults nationally, by state, and region using 2020–2021 BRFSS data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Archives of Sexuality and Gender",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fgdc.galegroup.com%2Fgdc%2Fartemis%3Fp%3DAHSI%26u%3D",
+    "description": "Primary sources for historical study of sex, sexuality, and gender, spanning the sixteenth century onward.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "DHS Program Gender Dashboard",
+    "dataset_url": "https://dhsprogram.com/data/visualizations/gender-dashboard.cfm",
+    "description": "Visualizations of DHS gender-related data across empowerment, education, health & wellness, and human dignity, rights & safety.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Gender Statistics Database",
+    "dataset_url": "https://eige.europa.eu/gender-statistics/dgs",
+    "description": "Comprehensive knowledge center for gender statistics and information on inequality between women and men.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Gender Statistics Information System",
+    "dataset_url": "https://gsis.kwdi.re.kr/gsis/en/main.html",
+    "description": "Integrated gender statistics operated by the Korea Women’s Development Institute for assessment and budgeting.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Gender Studies Database",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.asp%3Fprofile%3Dehost%26defaultdb%3Dfmh",
+    "description": "Gender-related scholarship combining Women’s Studies International, Men’s Studies, and Sexual Diversity Studies; limited simultaneous users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "ILGA World Database",
+    "dataset_url": "https://database.ilga.org/en",
+    "description": "Knowledge base on laws, human rights bodies, advocacy opportunities, and news related to SOGIESC worldwide.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Resource Center for Minority Data",
+    "dataset_url": "https://www.icpsr.umich.edu/web/pages/RCMD/lgbtq-resources.html",
+    "description": "Data resources for studying gender identity, sexual behavior, and sexual orientation, and datasets with strong representation.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Social Justice Sexuality Project",
+    "dataset_url": "https://socialjusticesexuality.com/projects/",
+    "description": "Large national survey of LGBTQ people of color with over 5,000 respondents across the U.S., DC, and Puerto Rico.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "Status of Women in the States",
+    "dataset_url": "https://statusofwomendata.org/",
+    "description": "Open data portal with national and state data on political participation, employment and earnings, work and family, poverty, reproductive rights, health, and violence and safety.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "TransPop, United States, 2016–2018",
+    "dataset_url": "https://doi.org/10.3886/ICPSR37938.v1",
+    "description": "First national probability sample of transgender individuals in the U.S. with comparative cisgender sample, covering health outcomes, behaviors, discrimination, identity, and transition-related experiences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "UN Statistics Division: Gender Statistics",
+    "dataset_url": "https://unstats.un.org/unsd/demographic-social/gender/index.cshtml",
+    "description": "Global Gender Statistics Programme improving coherence, methodologies, capacity, and access to gender relevant data and metadata.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "UN Women Data Hub",
+    "dataset_url": "https://data.unwomen.org/data-portal",
+    "description": "Latest data on gender-specific SDG indicators and UN Women’s thematic areas, including COVID-19-related resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Gender & Sexuality",
+    "dataset": "WomenStats Project",
+    "dataset_url": "https://www.womanstats.org/",
+    "description": "Largest cross-national compilation of data and maps on the status of women worldwide, with over 350 variables for 176 countries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Data Planet Ready Reference",
+    "dataset_url": "http://readyreference.data-planet.com/dataplanet/",
+    "description": "Simple searching of a large repository of standardized statistical data across health, education, finance, environment, and more.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Data Sources by Subject",
+    "dataset_url": "https://libguides.gwu.edu/research-data/subject-areas",
+    "description": "Library guide linking to data sources across subject areas.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Data.gov",
+    "dataset_url": "https://data.gov/",
+    "description": "Federal clearinghouse for U.S. government open datasets.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "General and Multidisciplinary Data Repositories",
+    "dataset_url": "https://libguides.gwu.edu/research-data/general",
+    "description": "Overview of general data repositories from Data Services.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Google Dataset Search",
+    "dataset_url": "https://datasetsearch.research.google.com/",
+    "description": "Search engine to find datasets stored across the web via keyword search.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Harvard Dataverse",
+    "dataset_url": "https://dataverse.harvard.edu/",
+    "description": "Global repository for sharing, citing, analyzing, and preserving research data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Open Science Framework (OSF)",
+    "dataset_url": "https://osf.io/",
+    "description": "Free, open platform to support research and collaboration.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "re3data",
+    "dataset_url": "http://www.re3data.org/",
+    "description": "Registry of research data repositories with information on access, licensing, and standards.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "General and Multidisciplinary Data Repositories",
+    "dataset": "Zenodo",
+    "dataset_url": "https://zenodo.org/",
+    "description": "Open platform to share and preserve research outputs of any size and format across sciences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Administrative Areas: GADM Database of Global Administrative Areas",
+    "dataset_url": "http://www.gadm.org/",
+    "description": "High-resolution administrative boundaries for all countries at all sub-division levels.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Data Sources by Subject",
+    "dataset_url": "https://libguides.gwu.edu/research-data/subject-areas",
+    "description": "Library guide to data across subject areas including geospatial.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "GeoLode",
+    "dataset_url": "http://geolode.org/",
+    "description": "Directory of GIS data directories.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Geospatial",
+    "dataset_url": "https://libguides.gwu.edu/research-data/geospatial",
+    "description": "Repository list and DC-MD-VA geospatial datasets.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Maryland: GISnet",
+    "dataset_url": "http://www.marylandgis.net/resources/",
+    "description": "Maryland GIS resources and links.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Maryland Geological Survey",
+    "dataset_url": "http://www.mgs.md.gov/coastal/maps/index.html",
+    "description": "Geological maps and coastal resources for Maryland.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Maryland Map Collection",
+    "dataset_url": "http://libraries.umd.edu/mdmap/",
+    "description": "More than 2,500 maps depicting Maryland, the Chesapeake Bay, and the surrounding region from 1590 to present.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "OpenGeoPortal",
+    "dataset_url": "http://data.opengeoportal.org/",
+    "description": "Federated web application to discover, preview, and retrieve geospatial data from multiple repositories.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "OpenStreetMap",
+    "dataset_url": "http://www.openstreetmap.org/",
+    "description": "Open, crowdsourced map data for websites and apps.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "PolicyMap",
+    "dataset_url": "https://gwu.policymap.com/",
+    "description": "Place-based data library with mapping, reporting, and analytics; demographics, real estate, health, jobs, and more.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Sanborn Maps",
+    "dataset_url": "https://www.loc.gov/collections/sanborn-maps/about-this-collection/",
+    "description": "Searchable database of fire insurance maps published by the Sanborn Map Company.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Sanborn Maps: District of Columbia",
+    "dataset_url": "http://catalog.wrlc.org/cgi-bin/Pwebrecon.cgi?BBID=2656274",
+    "description": "Fire insurance maps for the District of Columbia from late 19th century to 1989.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Social Explorer",
+    "dataset_url": "https://www.socialexplorer.com/pub/home/home.aspx",
+    "description": "U.S. census and ACS data with geospatial visualization tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Spatial Data Repository",
+    "dataset_url": "https://geo.nyu.edu/",
+    "description": "NYU’s portal for previewing and discovering geospatial data from open and proprietary sources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "US Geological Survey",
+    "dataset_url": "http://www.usgs.gov/",
+    "description": "USGS maps, images, publications, and data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Virginia: Geospatial Data Services: State Resources",
+    "dataset_url": "https://guides.lib.vt.edu/c.php?g=660137&p=4634747",
+    "description": "Guide to Virginia statewide geospatial data resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Geospatial",
+    "dataset": "Virginia: Statewide data GIS sites",
+    "dataset_url": "http://www.lib.vt.edu/find/gis-maps/data/statewide.html",
+    "description": "Links to Virginia statewide GIS data sites.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Africa Development Indicators",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fdatabank.worldbank.org%2Fddp%2Fhome.do%3FStep%3D12%26id%3D4%26CNO%3D1147",
+    "description": "Detailed African data collection with over 1,600 indicators covering 53 countries (1961–2008).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Africa Information Highway",
+    "dataset_url": "https://dataportal.opendataforafrica.org/",
+    "description": "Statistical portal with tools to gather, analyze, and export indicators for African countries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "African Elections Database",
+    "dataset_url": "https://africanelections.tripod.com/index.html",
+    "description": "Database of election results in Sub-Saharan Africa.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "African Statistical Yearbook",
+    "dataset_url": "https://www.afdb.org/en/knowledge/publications/african-statistical-yearbook",
+    "description": "Quality statistical information about Africa’s development initiatives including North Africa.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Arab Barometer",
+    "dataset_url": "http://www.arabbarometer.org/instruments-and-data-files",
+    "description": "Public opinion surveys on views in the Middle East and North Africa regions since 2006.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Archives Nationales d’Haïti",
+    "dataset_url": "https://dloc.com/collections/ianh",
+    "description": "Civil and state records of Haiti, contributing to dLOC and patrimony initiatives.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "ASEAN Stats Data Portal Indicators",
+    "dataset_url": "https://data.aseanstats.org",
+    "description": "Statistics on key indicators for ASEAN and its members.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "CESSDA Data Catalogue",
+    "dataset_url": "https://datacatalogue.cessda.eu/",
+    "description": "Metadata for 40,000+ data collections from over 20 European countries via CESSDA service providers.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "China Data Online",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fchinadataonline.org%2Feng%2Fereg%2Fceitgroup.asp",
+    "description": "Statistical data on China’s economic and demographic aspects, including industry reports and census-related information.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "China Economy, Public Policy, and Security Database (Pi Shu)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fdlib.eastview.com%2Fbrowse%2Fbooks%2F1610%3FsearchLink%3D%252Fsearch%252Fsimple%23%2F",
+    "description": "White papers by Chinese think tanks addressing governance and development across thematic categories (1996–present).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "CrossAsia Search Engine (Open Access)",
+    "dataset_url": "https://crossasia.org/en/",
+    "description": "Search engine by the German National Library with comprehensive index of Asia studies resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Data Europa",
+    "dataset_url": "https://data.europa.eu/en",
+    "description": "Access to 1.4 million public datasets from 36 countries indexed by the European Commission.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "East India Company",
+    "dataset_url": "https://www.eastindiacompany.amdigital.co.uk/",
+    "description": "Digital collection of India Office Records (charters, correspondence, trading diaries, council minutes, and expedition reports, 1599–1947).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "ECAStats",
+    "dataset_url": "https://ecastats.uneca.org/data/",
+    "description": "Economic Commission for Africa compiles data from member states and regional/international sources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Eurostat",
+    "dataset_url": "http://ec.europa.eu/eurostat",
+    "description": "European Union statistics enabling comparisons between countries and regions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Foreign Law Guide",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.foreignlawguide.com%2Fip%2F",
+    "description": "Information on sources of foreign law, translations, and secondary sources; off-campus access via GW VPN.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Foreign Office Files for India, Pakistan and Afghanistan, 1947–1980",
+    "dataset_url": "https://www.foreignofficefilesindia.amdigital.co.uk/",
+    "description": "British Foreign Office documents from the National Archives of the UK (dispatches, telegrams, maps, photos, reports) across 1947–1980.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Global Think Tanks",
+    "dataset_url": "https://policycommons.net/modules/global-think-tanks/",
+    "description": "Repository with 3M+ reports, working papers, policy briefs, and data sources from 21,000+ organizations.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Indiastat.com",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.indiastat.com%2F",
+    "description": "Comprehensive socio-economic information related to India across many subjects; limited simultaneous users and IP-based login.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Institute for Development Studies and Practices- Pakistan (IDSP)",
+    "dataset_url": "http://idsp.org.pk/",
+    "description": "Community-based development organization in Balochistan region.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Islamic Heritage Project",
+    "dataset_url": "https://library.harvard.edu/collections/islamic-heritage-project",
+    "description": "Collection of 280+ Islamic manuscripts, texts, and maps (10th–20th centuries) from Harvard libraries and museums.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Latin America: GeoSUR",
+    "dataset_url": "http://www.geosur.info/geosur/",
+    "description": "Portal to spatial data published by Latin American and Caribbean agencies.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Latin News",
+    "dataset_url": "https://www-latinnews-com.us1.proxy.openathens.net/member-area.html",
+    "description": "Expert political, economic, and security analysis on Latin America and the Caribbean.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Middle East and North Africa Research Center (MENA)",
+    "dataset_url": "https://library.gwu.edu/mena",
+    "description": "Library resources including maps, films, archival collections, manuscripts, and journals/newspapers for MENA studies.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "openAFRICA",
+    "dataset_url": "https://open.africa/",
+    "description": "Independent repository of open data on the African continent.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Political Database of the Americas",
+    "dataset_url": "http://pdba.georgetown.edu/",
+    "description": "Reference materials, primary documents, comparative studies, and statistical data for Western Hemisphere countries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "RiStat: Electronic Repository of Russian Historical Statistics",
+    "dataset_url": "https://ristat.org/topics",
+    "description": "Data repository for Russian economic and social history (18th–21st centuries).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Russia/NIS Statistics",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fdlib.eastview.com%2Fbrowse%2Fudb%2F1650",
+    "description": "Russian and English publications, reports, and datasets from national statistics agencies.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "South Asian Statistical Data",
+    "dataset_url": "https://dsal.uchicago.edu/statistics/",
+    "description": "Statistical information including census data from colonial to contemporary periods in South Asia.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "States of India",
+    "dataset_url": "https://statesofindia-cmie-com.us1.proxy.openathens.net/",
+    "description": "Statistics and documents from CMIE covering Indian states; user login required.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Global Studies",
+    "dataset": "Statistics Bureau of Japan",
+    "dataset_url": "https://www.stat.go.jp/english/data/index.html",
+    "description": "Central official statistical system producing and disseminating basic statistics in Japan.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Health & Medical",
+    "dataset": "Behavioral Risk Factor Surveillance System (BRFSS)",
+    "dataset_url": "https://www.cdc.gov/brfss/index.html",
+    "description": "U.S. system of health-related telephone surveys collecting state data on risk behaviors, chronic health conditions, and preventive services.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Health & Medical",
+    "dataset": "ICPSR - Substance Abuse and Mental Health Data Archive (SAMHDA)",
+    "dataset_url": "https://www.icpsr.umich.edu/web/SAMHDA/index.html",
+    "description": "Archive housing data collections related to substance abuse and mental health.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Health & Medical",
+    "dataset": "National Center for Health Statistics (NCHS) APIs",
+    "dataset_url": "https://www.cdc.gov/nchs/data_access/data_api.htm",
+    "description": "APIs for accessing health-related data including surveys and vital statistics from NCHS.",
+    "variable_names": [],
+    "api_docs": "https://www.cdc.gov/nchs/data_access/data_api.htm"
+  },
+  {
+    "subject_area": "Health & Medical",
+    "dataset": "National Health and Nutrition Examination Survey (NHANES)",
+    "dataset_url": "https://www.cdc.gov/nchs/nhanes/index.htm",
+    "description": "Program combining interviews and physical examinations to assess health and nutrition of U.S. adults and children.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Health & Medical",
+    "dataset": "World Health Organization (WHO) Data",
+    "dataset_url": "https://www.who.int/data",
+    "description": "Global repository for health data and indicators.",
+    "variable_names": [],
+    "api_docs": "https://www.who.int/data/gho/info/gho-api"
+  },
+  {
+    "subject_area": "History",
+    "dataset": "Archaeology Data Service",
+    "dataset_url": "https://archaeologydataservice.ac.uk/search-data/",
+    "description": "Accredited UK repository for archaeology and historic environment data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "History",
+    "dataset": "DANS Archaeology",
+    "dataset_url": "https://archaeology.datastations.nl/",
+    "description": "Thousands of datasets within the field of archaeology.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "History",
+    "dataset": "Historical Statistics of the United States",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fhsus.cambridge.org%2FHSUSWeb",
+    "description": "Contains over 37,000 statistical time series covering U.S. history up to 2006 publication.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "History",
+    "dataset": "Social Explorer",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.socialexplorer.com%2Fexplore%2Fmaps",
+    "description": "U.S. historical census data with mapping and analysis tools; limited concurrent users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "History",
+    "dataset": "Statistical Abstract of the United States",
+    "dataset_url": "http://www.census.gov/compendia/statab/",
+    "description": "Comprehensive summary of statistics on U.S. social, political, and economic organization.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Bureau of Justice Statistics",
+    "dataset_url": "http://www.ojp.usdoj.gov/bjs/",
+    "description": "Information on crime and justice in the United States.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Congressional Serial Set",
+    "dataset_url": "https://www.govinfo.gov/app/collection/serialset",
+    "description": "Numbered Senate and House Documents and Reports bound by Session of Congress.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Data.gov",
+    "dataset_url": "https://www.data.gov/",
+    "description": "Public access to high-value, machine-readable datasets generated by the U.S. Executive Branch.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "FBI Uniform Crime Reports",
+    "dataset_url": "https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr",
+    "description": "Crime statistics program providing reliable data for law enforcement and research since 1930.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Global Terrorism Database (GTD)",
+    "dataset_url": "https://www.start.umd.edu/gtd/",
+    "description": "Open-source database of global terrorist events from 1970 through 2021.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "GovInfo",
+    "dataset_url": "http://govinfo.gov",
+    "description": "Free public access to official publications from all three branches of the U.S. Federal Government.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "LLMC Digital Law Library",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.llmcdigital.org%2FDefault.aspx",
+    "description": "Full-text access to a vast collection of law and law-related literature by LLMC.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Making of Modern Law: Foreign Primary Sources, Part 1 1600–1970",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Finfotrac.galegroup.com%2Fitweb%2Fwash74137%3Fdb%3DMLFP",
+    "description": "Digital collection of statutes and codes for European jurisdictions (1600–1970).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Making of Modern Law: Foreign, Comparative and International Law, 1600–1926",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Finfotrac.galegroup.com%2Fitweb%2Fwash74137%3Fdb%3DMMLF",
+    "description": "Collection of foreign and international legal literature pre-1926, sourced from GWU, Yale, and Columbia law libraries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Making of Modern Law: Primary Sources, 1763–1970",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Finfotrac.galegroup.com%2Fitweb%2Fwash74137%3Fdb%3DMMLP",
+    "description": "Online access to state and municipal codes, constitutional convention documents, and other American legal history resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "National Center for Statistics and Analysis (NCSA)",
+    "dataset_url": "https://www.nhtsa.gov/research-data/national-center-statistics-and-analysis-ncsa",
+    "description": "NHTSA’s statistical research and reports on motor vehicle crashes and traffic safety trends.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Precedents of the U.S. House of Representatives",
+    "dataset_url": "https://www.govinfo.gov/collection/precedents-of-the-house?path=/GPO/Precedents%20of%20the%20U.S.%20House%20of%20Representatives",
+    "description": "Includes 2017 series, Deschler’s, Cannon’s, and Hinds’ Precedents.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "ProQuest Congressional",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fsearch.proquest.com%2Fcongressional%2Fsearch%2Fadvanced%2Fadvanced%3Faccountid%3D11243",
+    "description": "Comprehensive source of Congressional information including bills, hearings, testimonies, and legislative histories.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "Statistical Abstracts of the United States",
+    "dataset_url": "https://www.census.gov/library/publications/time-series/statistical_abstracts.html",
+    "description": "Authoritative summary of U.S. statistics (1878–2012).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "U.S. Federal Legislative History Library (HeinOnline)",
+    "dataset_url": "https://heinonline-org.proxygw.wrlc.org/HOL/Index?collection=leghis&set_as_cursor=clear",
+    "description": "Compiled federal legislative histories containing more than 2,700 titles.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "U.S. Government Publishing Office (GPO) APIs",
+    "dataset_url": "https://www.gpo.gov/about/api-services",
+    "description": "APIs providing programmatic access to data for Congress, Federal Bills, the Federal Register, and other government information.",
+    "variable_names": [],
+    "api_docs": "https://www.gpo.gov/about/api-services"
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "U.S. Statutes at Large (HeinOnline)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fheinonline.org%2FHOL%2FIndex%3Fcollection%3Dstatute",
+    "description": "Digital copies of the U.S. Statutes at Large from the first Congress (1789) through the 81st Congress (1951).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Law & Government",
+    "dataset": "USAspending",
+    "dataset_url": "https://www.usaspending.gov/",
+    "description": "Official open data source of U.S. federal spending including contracts, grants, and loans.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "caNanoLab",
+    "dataset_url": "https://cananolab.cancer.gov/#/",
+    "description": "Data sharing portal for international biomedical nanotechnology research.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "Center for Clinical Observational Investigations",
+    "dataset_url": "https://lhncbc.nlm.nih.gov/CCOI/index.html",
+    "description": "Curated metadata profiles for clinical datasets to reduce barriers to finding relevant data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "Demographic and Health Surveys (DHS) from USAID",
+    "dataset_url": "https://www.idhsdata.org/idhs/",
+    "description": "Standardized variables on health and well-being of women, children, births, men, and households across many countries; variable selection and download tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "FlowRepository",
+    "dataset_url": "http://flowrepository.org/",
+    "description": "Database of flow cytometry experiments annotated according to MIFlowCyt.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "Milken Institute School of Public Health: Data & Statistics",
+    "dataset_url": "https://guides.himmelfarb.gwu.edu/gwsph/data",
+    "description": "Guide to medical data and statistics from Himmelfarb Health Sciences Library.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "National Center for Health Statistics",
+    "dataset_url": "http://www.cdc.gov/nchs/",
+    "description": "Data briefs and publications with national statistics on health issues and links to related sites.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "National Center for Statistics and Analysis (NCSA)",
+    "dataset_url": "https://www.nhtsa.gov/research-data/national-center-statistics-and-analysis-ncsa",
+    "description": "NHTSA’s data-driven insights into motor vehicle crashes and traffic safety trends.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "NNLM Dataset Catalog",
+    "dataset_url": "https://www.datasetcatalog.nlm.nih.gov/",
+    "description": "Catalog of biomedical datasets from various repositories for discovery and retrieval.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Medicine & Public Health",
+    "dataset": "Vivli",
+    "dataset_url": "https://vivli.org/",
+    "description": "Global data-sharing and analytics platform focusing on individual participant-level data from completed clinical trials.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "ANAD Eating Disorders Statistics",
+    "dataset_url": "https://anad.org/eating-disorder-statistic/",
+    "description": "Statistics on eating disorders across populations including BIPOC, LGBTQ+, disabilities, and larger bodies.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "CDC FastStats: Diet/Nutrition",
+    "dataset_url": "https://www.cdc.gov/nchs/fastats/diet.htm",
+    "description": "Selected statistics on physical activity, sleep, nutrition, and other health topics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "Health Nutrition and Population Statistics",
+    "dataset_url": "https://datacatalog.worldbank.org/search/dataset/0037652/Health-Nutrition-and-Population-Statistics",
+    "description": "World Bank database with key health, nutrition, and population statistics across multiple themes.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "National Eating Disorders Association (NEDA)",
+    "dataset_url": "https://www.nationaleatingdisorders.org/statistics/",
+    "description": "Datasets organized by demographic focused on advancing eating disorder research.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "National Health and Nutrition Examination Survey (NHANES)",
+    "dataset_url": "https://wwwn.cdc.gov/nchs/nhanes/",
+    "description": "NHANES data providing a snapshot of health and nutrition of the U.S. population.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "The Global Alliance for Improved Nutrition (GAIN)",
+    "dataset_url": "https://www.gainhealth.org/resources/publications/datasets",
+    "description": "Datasets focusing on adolescent and child nutrition, food systems, fortification, SME assistance, biofortification, and post-harvest loss reduction.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "USDA FoodData Central",
+    "dataset_url": "https://fdc.nal.usda.gov/",
+    "description": "USDA comprehensive source of food composition data with multiple data types.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Nutrition & Dietetics",
+    "dataset": "WHO Nutrition Data Portal",
+    "dataset_url": "https://platform.who.int/nutrition/nutrition-portals",
+    "description": "Portal for nutrition and related indicators including micronutrients, child growth, malnutrition, and Global Nutrition Monitoring Framework.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Allen Brain Atlas",
+    "dataset_url": "https://portal.brain-map.org/",
+    "description": "Neuroscience atlas with stained brain sections showing development and gene expression.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Behavioral Risk Factor Surveillance System (BRFSS)",
+    "dataset_url": "http://www.cdc.gov/BRFSS/",
+    "description": "Measures preventive health practices and risk behaviors in the adult non-institutionalized U.S. population.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Brain Maps",
+    "dataset_url": "https://brainmaps.org/",
+    "description": "Interactive brain atlas integrated with high-speed database for brain structure and function.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "DANDI",
+    "dataset_url": "https://dandiarchive.org/dandiset",
+    "description": "Archive for publishing and sharing neurophysiology data including electrophysiology, optophysiology, behavioral time-series, and images.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "DSM Library (Diagnostic and Statistical Manual Library)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fdsm.psychiatryonline.org%2FdsmLibrary.aspx",
+    "description": "Search and browse DSM-5 (2013) and related diagnostic tools, including Handbook of Differential Diagnosis and Clinical Cases.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Global Alzheimer's Association Interactive Network",
+    "dataset_url": "https://www.gaaindata.org/partners/online.html",
+    "description": "Datasets from GAAIN research partners around the world.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Health and Psychosocial Instruments Database (HaPI)",
+    "dataset_url": "http://library.wcsu.edu/cgi-bin/go_db.py?db=HAPI",
+    "description": "Bibliographic database with information on behavioral measurement instruments across health and psychosocial sciences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "MRC Cognition and Brain Sciences",
+    "dataset_url": "https://imaging.mrc-cbu.cam.ac.uk/methods/OpenDatasets",
+    "description": "Open datasets supporting research on human cognition and its disorders.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "NITRC",
+    "dataset_url": "http://www.nitrc.org/",
+    "description": "Software tools, neuroimaging data repository, and cloud computing for neuroinformatics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Neuroscience Information Framework",
+    "dataset_url": "http://www.neuinfo.org/",
+    "description": "Search for neuroscience information including articles, data, and tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Neurosynth",
+    "dataset_url": "http://neurosynth.org/",
+    "description": "Platform for large-scale, automated synthesis of fMRI data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "NeuroVault",
+    "dataset_url": "https://neurovault.org/",
+    "description": "Public repository of unthresholded statistical maps, parcellations, and brain atlases.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Open Access Series of Imaging Studies (OASIS)",
+    "dataset_url": "https://sites.wustl.edu/oasisbrains/",
+    "description": "Freely available neuroimaging data sets to facilitate discoveries in basic and clinical neuroscience.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Open Science Framework (OSF)",
+    "dataset_url": "https://osf.io/",
+    "description": "Open platform supporting research and collaboration.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "OpenNEURO",
+    "dataset_url": "https://openneuro.org/",
+    "description": "Free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "PubMed",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%3Fmyncbishare%3Ddcgwulib%26holding%3Ddcgwulib_fft_ndi%26dr%3Dabstract%26otool%3Ddcgwulib",
+    "description": "Public access version of Medline with links to related genetic, chemical, and taxonomic information; customized filters available.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "StudyForrest",
+    "dataset_url": "https://www.studyforrest.org/data.html",
+    "description": "Public neuroimaging data that provides ideal reference datasets for brain imaging.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Substance Abuse and Mental Health Data Archive",
+    "dataset_url": "https://www.datafiles.samhsa.gov/",
+    "description": "SAMHSA public use data with online analysis tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Psychology & Neuroscience",
+    "dataset": "Youth Risk Behavior Surveillance System 1992–2021 (CDC)",
+    "dataset_url": "https://www.datalumos.org/datalumos/project/217921/version/V1/view",
+    "description": "Surveys tracking health risk behaviors among students grades 9–12; note changes since Feb 2025.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "Gallup Analytics (Guide)",
+    "dataset_url": "https://libguides.gwu.edu/c.php?g=851315&p=6092016",
+    "description": "Guide to accessing Gallup data sets: U.S. Tracker, World Poll, and Social Series.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "General Social Survey",
+    "dataset_url": "https://gss.norc.org/",
+    "description": "Longitudinal, nationally representative cross-sectional survey of the U.S. population since 1972 on social attitudes, behaviors, and opinions with a replicating core.",
+    "variable_names": ["AGE", "SEX", "EDUC", "RACE", "POLVIEWS", "FEHOME", "GUNLAW", "ABANY", "WTSSALL"],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "International Social Survey Programme",
+    "dataset_url": "http://www.issp.org/",
+    "description": "Cross-national collaboration program distributing annual surveys on diverse social science topics since 1984; data and documentation free of charge.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "iPoll (Roper Center)",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.ropercenter.uconn.edu%2FiPOLL%2Flogin%2Fipoll_login.html",
+    "description": "Archive of U.S. nationwide public opinion data; user accounts required to download data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "Latinobarómetro",
+    "dataset_url": "https://www.latinobarometro.org/lat.jsp",
+    "description": "Annual public opinion survey in 18 Latin American countries since 1995; includes summary and technical reports.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "NORC at University of Chicago",
+    "dataset_url": "https://www.norc.org/Pages/default.aspx",
+    "description": "Data Enclave for sensitive microdata (e.g., SED, KFS, ARMS) in secure virtual environment.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "Odum Institute Archive Dataverse",
+    "dataset_url": "https://dataverse.unc.edu/dataverse/odum",
+    "description": "Archive of public opinion data including Harris Polls, National Network of State Polls, Carolina Poll, and others.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "Polling the Nations",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fpoll.orspub.com%2F",
+    "description": "Data from public opinion polls and surveys conducted in the U.S. and abroad; limited simultaneous users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "Rasmussen Reports",
+    "dataset_url": "http://www.rasmussenreports.com/",
+    "description": "Political commentary and public opinion polling information.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "World Values Survey",
+    "dataset_url": "http://www.worldvaluessurvey.org/",
+    "description": "Worldwide surveys studying changing values and their social/political impacts; national surveys in 97 societies across multiple waves since 1981.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Public Opinion",
+    "dataset": "YouGov",
+    "dataset_url": "https://today.yougov.com/",
+    "description": "Global public opinion and data company conducting surveys on politics, consumer behavior, and various topics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Acquis Communautaire (AC)",
+    "dataset_url": "https://www.islrn.org/resources/821-325-977-001-1/",
+    "description": "Parallel texts of EU law across 22 languages, comprising selected texts from the 1950s to present.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "BYU Law and Corpus Linguistics",
+    "dataset_url": "https://lawcorpus.byu.edu/",
+    "description": "Platform for linguistic analysis including corpora of Founding Era American English, Early Modern English, and Supreme Court of the United States.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "CHILDES",
+    "dataset_url": "https://www.sketchengine.eu/childes-corpora/",
+    "description": "Comparable corpora from transcripts of child language across 24 languages within TalkBank.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "CHILDES TalkBank",
+    "dataset_url": "https://childes.talkbank.org/",
+    "description": "Child language component of the TalkBank system for sharing and studying conversational interactions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Chinese Corpora",
+    "dataset_url": "http://corpus.leeds.ac.uk/query-zh.html",
+    "description": "Collection of Chinese corpora and frequency lists provided by Leeds University.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Chinese-English Parallel Corpora",
+    "dataset_url": "https://www.translatefx.com/resources/corpora",
+    "description": "Aligned sentence pairs from quality bilingual texts covering financial and legal domains in Hong Kong.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "CLARIN Virtual Language Observatory",
+    "dataset_url": "https://vlo.clarin.eu/",
+    "description": "Search hundreds of thousands of language resources with facet filtering by language and resource type.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Data Sources by Subject",
+    "dataset_url": "https://libguides.gwu.edu/research-data/subject-areas",
+    "description": "Guide to data across subject areas including qualitative resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Demo Corpora for Teaching",
+    "dataset_url": "http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets",
+    "description": "Small to moderate-sized text collections for teaching and text-analysis workshops.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "English-Corpora.org",
+    "dataset_url": "https://www.english-corpora.org/",
+    "description": "Widely used online corpora for research and teaching, with corpus data employed by companies in technology and language learning.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "European Language Corpora",
+    "dataset_url": "https://www.linguistik.hu-berlin.de/en/institut-en/professuren-en/korpuslinguistik/links-en/korpora_links",
+    "description": "Collated corpora links by Humboldt University Berlin.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "HathiTrust+Bookworm",
+    "dataset_url": "https://guides.library.illinois.edu/htbookworm",
+    "description": "Visualization tool for trends in language over time using HathiTrust Digital Library textual data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Japanese Corpora",
+    "dataset_url": "https://clrd.ninjal.ac.jp/en/",
+    "description": "Corpora built by the National Institute for Japanese Language and Linguistics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Korean Corpora",
+    "dataset_url": "http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus",
+    "description": "70 million eojeol Korean text corpus, POS-annotated, tree-annotated, and parallel corpora.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Language Data Commons of Australia",
+    "dataset_url": "https://data.ldaca.edu.au/search",
+    "description": "Discovery service for Australian English text, transcriptions, audio, and audiovisual materials.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Qualitative (Text) Guide",
+    "dataset_url": "https://libguides.gwu.edu/research-data/qualitative",
+    "description": "Repositories of qualitative data, language corpora, and more resources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Qualitative Data Repository",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fqdr.syr.edu%2F",
+    "description": "Dedicated archive for storing and sharing digital data generated through qualitative and multi-method research in social sciences.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Research Centre for Professional Communication in English",
+    "dataset_url": "http://rcpce.engl.polyu.edu.hk/rcpce/corporaresources.html",
+    "description": "Corpora resources from Hong Kong Polytechnic University’s Department of English.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "SEAlang Library",
+    "dataset_url": "http://sealang.net/library/",
+    "description": "Language reference materials for Southeast Asian languages, focusing on non-Roman scripts and languages of insular SEA.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "TROLLing",
+    "dataset_url": "https://dataverse.no/dataverse/trolling",
+    "description": "Open access archive of linguistic data and statistical code with robust metadata.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Qualitative (Text)",
+    "dataset": "Wikipedia List of Text Corpora",
+    "dataset_url": "https://en.wikipedia.org/wiki/List_of_text_corpora",
+    "description": "List of text corpora used for statistical analysis, hypothesis testing, and studying language use and change.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "1990 Long Form in 2000 Boundaries",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fdemographics.geolytics.com%2FCCD9000%2FPreLoginForm.aspx",
+    "description": "Access U.S. Census 1990 Long Form data aligned to 2000 boundaries for comparisons across population, households, income, education, and more; limited simultaneous users.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "American National Election Studies (ANES)",
+    "dataset_url": "http://www.electionstudies.org/",
+    "description": "Data on voting, public opinion, and political participation; cumulative time series since 1948.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "AnthroSource",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=http%3A%2F%2Fwww.anthrosource.net",
+    "description": "AAA-developed archive of anthropological material including journals; seamless access to JSTOR content for key publications.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Association of Religion Data Archives (ARDA)",
+    "dataset_url": "http://www.thearda.com/",
+    "description": "Collection of ~500 U.S. and international religion surveys, polls, and data made available online by ARDA.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Brown University's LTDB Crosswalk Tool",
+    "dataset_url": "https://s4.ad.brown.edu/Projects/Diversity/Researcher/LTDB.htm",
+    "description": "Standardizes historical census data (1970–2000) into 2010 boundaries to facilitate geospatial comparisons over time.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Center for Economic Studies (CES)",
+    "dataset_url": "https://www.census.gov/programs-surveys/ces.html",
+    "description": "Public-use and restricted-use data created from census, surveys, and administrative data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Correlates of State Policy",
+    "dataset_url": "https://cspp.ippsr.msu.edu/",
+    "description": "Compiled data relevant to U.S. state policy research tracking differences across 50 states and changes over time.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Cultural Policy and the Arts National Data Archive (CPANDA)",
+    "dataset_url": "https://www.icpsr.umich.edu/web/pages/NADAC/index.html",
+    "description": "Archives policy-relevant data on the arts and cultural policy in the U.S.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Data Resource Center for Child & Adolescent Health",
+    "dataset_url": "http://childhealthdata.org/home",
+    "description": "Access to children’s health data from NSCH and NS-CSHCN.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Gallup Analytics (Guide)",
+    "dataset_url": "https://libguides.gwu.edu/c.php?g=851315&p=6092016",
+    "description": "Guide to Gallup’s U.S. Tracker, World Poll, and Social Series datasets.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "General Social Survey (GSS)",
+    "dataset_url": "http://gss.norc.org/",
+    "description": "Core demographic, behavioral, and attitudinal questions since 1972 to facilitate trend studies and replication.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "George Washington University Special Collections Research Center",
+    "dataset_url": "https://library.gwu.edu/scrc",
+    "description": "Digital and on-site archives including DC community materials, labor history, media and journalism, rare books and maps, and GWU archives.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Global Terrorism Database",
+    "dataset_url": "http://www.start.umd.edu/gtd/",
+    "description": "Open-source database of global terrorist events from 1970 through 2017.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Harvard Dataverse",
+    "dataset_url": "https://dataverse.harvard.edu/",
+    "description": "Open source repository for publishing, citing, and discovering research data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Housing and Urban Development USPS ZIP Code Crosswalk Files",
+    "dataset_url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html",
+    "description": "Derived from quarterly USPS Vacancy Data; updated quarterly to reflect ZIP code configuration changes. Files map business and residential addresses and can be used to crosswalk between geographic levels and US ZIP codes.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "ICPSR: Inter-university Consortium for Political and Social Research",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fwww.icpsr.umich.edu%2Ficpsrweb%2FICPSR%2F",
+    "description": "Collection of publicly available and restricted datasets on public policy and social science research. Account and login required to access data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "IPUMS",
+    "dataset_url": "https://www.ipums.org/",
+    "description": "Demographic data resources including IPUMS USA (back to 1850), IPUMS International (from 1960), CPS extracts, NHIS, ATUS-X, NHGIS, and NAPP. Account required for downloads.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Center for Education Statistics (NCES)",
+    "dataset_url": "http://nces.ed.gov/surveys/",
+    "description": "Access to surveys and data on academic performance assessment, early childhood, elementary/secondary, postsecondary education, libraries, and cross-national education comparisons.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Center for Health Statistics (NCHS)",
+    "dataset_url": "http://www.cdc.gov/nchs/data_access/ftp_data.htm",
+    "description": "Public-use datasets and documentation from NCHS surveys and data collection systems available via the CDC FTP server.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Household Education Surveys (NHES), 1999-2007",
+    "dataset_url": "http://nces.ed.gov/nhes/index.asp",
+    "description": "Household-level surveys on learning across the lifespan. The 2007 collection included Parent and Family Involvement in Education and School Readiness surveys.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Longitudinal Study of Adolescent Health (Add Health), 1994-2008",
+    "dataset_url": "http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/21600?archive=ICPSR&q=21600",
+    "description": "Longitudinal study of a national cohort of adolescents (grades 7–12 in 1994–95) followed into young adulthood with four interviews through 2008; links adolescent social environments and behaviors to later health and achievement outcomes.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Longitudinal Surveys",
+    "dataset_url": "http://www.bls.gov/nls/",
+    "description": "Series of surveys tracking labor market and life experiences of U.S. cohorts, including public-use files for NLSY79 and NLSY97.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "National Survey of Families and Households (NSFH)",
+    "dataset_url": "http://www.ssc.wisc.edu/nsfh/",
+    "description": "Longitudinal survey investigating causes and consequences of changes in family and household structure. Waves conducted in 1987–88, 1992–94, and 2001–2003; includes life-history, marriage, custody, and household composition data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Neighborhood Change Database",
+    "dataset_url": "https://go.openathens.net/redirector/gwu.edu?url=https%3A%2F%2Fdemographics.geolytics.com%2FNCDB%2Fpreloginform.aspx",
+    "description": "Census tract–level Long Form data for 1970, 1980, 1990, and 2000 including population, household, housing characteristics, income, education, employment, and immigration to analyze neighborhood change over four decades. NOTE: requires Internet Explorer; simultaneous users limited.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Odum Institute Data Archive",
+    "dataset_url": "https://dataverse.unc.edu/dataverse/odum",
+    "description": "Archive of national and international economic, electoral, demographic, financial, health, public opinion, and other data collections; includes Louis Harris Data Center holdings and National Network of State Polls.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "PEW Research Center for The People and The Press Data Archive",
+    "dataset_url": "http://people-press.org/dataarchive/#2003",
+    "description": "Survey data on politics and major policy issues; data files provided in SPSS or ASCII formats.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Pew Research: Religion and Public Life Project",
+    "dataset_url": "http://www.pewforum.org/",
+    "description": "Surveys and reports covering religious activity and public opinion. Data and reports available.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Qualitative Data Repository (QDR)",
+    "dataset_url": "https://qdr.syr.edu/",
+    "description": "Repository that curates, preserves, publishes, and enables download of qualitative and multi-method research data; provides guidance and standards for managing and sharing qualitative data.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "SIRIS: Smithsonian Institution Research Information System",
+    "dataset_url": "http://www.siris.si.edu/",
+    "description": "Searchable catalog of Smithsonian records: millions of records and over a million images, video, and sound files from museums, archives, and libraries.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "The Database of Religious History",
+    "dataset_url": "https://religiondatabase.org/landing",
+    "description": "Standardized, searchable encyclopedia of scholarly opinion on religious history with built-in analytics and visualization tools.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "The Quality of Government (QOG) Institute",
+    "dataset_url": "https://www.gu.se/en/quality-government",
+    "description": "Datasets and visual tools on governance and corruption. Includes QoG Standard Dataset, Expert Survey, OECD subset, and EU regional data combining Eurostat and other sources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "U.S. Religion Census",
+    "dataset_url": "https://www.usreligioncensus.org/play-with-data",
+    "description": "County-level religious data reporting number of congregations and membership for participating faith groups. Datasets downloadable as tables or Excel files for multiple study years.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "United States Census Research Guide",
+    "dataset_url": "https://libguides.gwu.edu/USCensus",
+    "description": "Research guide highlighting key electronic and print resources published by the U.S. Census Bureau and related sources.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "University of Missouri Census Data Center's Geocorr 2014",
+    "dataset_url": "http://mcdc.missouri.edu/applications/geocorr2014.html",
+    "description": "Tool for creating CSV reports showing relationships between U.S. geographies (e.g., ZIP-to-county crosswalks). Useful for mapping how one geography nests within another.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences",
+    "dataset": "Varieties of Democracy (V-Dem)",
+    "dataset_url": "https://v-dem.net/data/the-v-dem-dataset/",
+    "description": "Comprehensive democracy ratings and indicators. Latest dataset versions and documentation are available for free download.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "Add Health (National Longitudinal Study of Adolescent to Adult Health)",
+    "dataset_url": "https://www.cpc.unc.edu/projects/addhealth",
+    "description": "Longitudinal, nationally representative cohort study of adolescents (grades 7–12 in 1994–95) followed into adulthood with extensive social, economic, psychological, and health measures.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "Eurobarometer",
+    "dataset_url": "https://europa.eu/eurobarometer/screen/home",
+    "description": "Series of public opinion surveys conducted for the European Commission since 1973 on a wide range of EU-related topics.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "General Social Survey",
+    "dataset_url": "https://gss.norc.org/",
+    "description": "Nationally representative cross-sectional survey of the U.S. population since 1972 collecting data on social attitudes, behaviors, and opinions with a stable replicating core to track trends.",
+    "variable_names": ["AGE","SEX","EDUC","RACE","POLVIEWS","FEHOME","GUNLAW","ABANY","WTSSALL"],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "General Social Survey - NORC",
+    "dataset_url": "https://gss.norc.org/",
+    "description": "Same as General Social Survey entry; full data and documentation available via NORC.",
+    "variable_names": ["AGE","SEX","EDUC","RACE","POLVIEWS","FEHOME","GUNLAW","ABANY","WTSSALL"],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "National Survey of Families and Households",
+    "dataset_url": "https://www.ssc.wisc.edu/nsfh/home.htm",
+    "description": "Longitudinal survey collecting detailed life-history information on marriage, cohabitation, fertility, employment, and economic well-being across multiple waves.",
+    "variable_names": ["ID","MS_A","SEX_A","COMPLED3","INCOME_W","MARRIAGES","COHAB"],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "National Survey of Family Growth",
+    "dataset_url": "https://www.cdc.gov/nchs/nsfg/index.htm",
+    "description": "Survey on family life, marriage/divorce, pregnancy, infertility, contraception, and men's and women's health.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "Social Sciences (Multi-Disciplinary)",
+    "dataset": "Pew Research Center Data",
+    "dataset_url": "https://www.pewresearch.org/data/",
+    "description": "Pew Research Center datasets from surveys on politics, society, technology, religion, and demographics; data files available for download.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "Armed Conflict Location & Event Data Project (ACLED)",
+    "dataset_url": "https://www.acleddata.com",
+    "description": "Data on political violence and protests, with geographic, temporal, and actor-level detail for developing and other regions.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "Correlates of War Project",
+    "dataset_url": "http://www.correlatesofwar.org/",
+    "description": "Datasets on interstate and intrastate conflict, dyadic interactions, militarized disputes, and related international conflict measures.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "Global Peace Index",
+    "dataset_url": "https://www.visionofhumanity.org/maps/#/",
+    "description": "Quantitative index measuring levels of peace across countries and regions using multiple indicators of safety and security.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "Global Terrorism Database",
+    "dataset_url": "http://www.start.umd.edu/gtd/",
+    "description": "Open-source database documenting terrorist events worldwide from 1970 through 2017 (and updated releases on GTD site).",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "SIPRI (Stockholm International Peace Research Institute)",
+    "dataset_url": "http://www.sipri.org/research",
+    "description": "Databases and datasets on arms transfers, military expenditure, the arms industry, and multilateral peace operations.",
+    "variable_names": [],
+    "api_docs": null
+  },
+  {
+    "subject_area": "War & Peace Studies",
+    "dataset": "Uppsala Conflict Database",
+    "dataset_url": "http://ucdp.uu.se/",
+    "description": "Data on armed conflicts, conflict trends, and peace agreements maintained by the Uppsala Conflict Data Program.",
+    "variable_names": [],
+    "api_docs": null
+  }
+]
